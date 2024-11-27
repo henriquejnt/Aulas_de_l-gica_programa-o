@@ -11,6 +11,7 @@ programa
 				n1 = -1
 			}
 		}
+		escreva("\nFIM !")
 	}
 }
 /* $$$ Portugol Studio $$$ 
